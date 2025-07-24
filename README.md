@@ -1,4 +1,4 @@
-##A deep learning model for audio classification, designed to detect AI-generated music.
+A deep learning model for audio classification, designed to detect AI-generated music.
 
 Model architecture : EfficientNetB0 (Transfer Learning)
 
